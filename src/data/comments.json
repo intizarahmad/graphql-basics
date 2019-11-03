@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "text": "this is first comment",
+      "auther":1,
+      "post": 1
+    },
+    {
+      "id": 2,
+      "text": "this is second comment",
+      "auther":2,
+      "post": 2
+    },
+    {
+      "id": 3,
+      "text": "this is fourth comment",
+      "auther":1,
+      "post": 1
+
+    }
+  ]

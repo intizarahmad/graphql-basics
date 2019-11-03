@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "intizar ahmad",
+      "email": "intizarahmad@gmail.com",
+      "age": 23
+    },
+    {
+      "id": 2,
+      "name": "akash agarwal",
+      "email": "akashagarwal@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Manish gupta",
+      "email": "manishgupta@gmail.com"
+    }
+  ]

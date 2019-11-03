@@ -1,0 +1,23 @@
+[
+  {
+      "id": 1,
+      "title": "hello Angular",
+      "body":"this is angular related post",
+      "published": false,
+      "auther":1
+  },
+  {
+    "id": 1,
+    "title": "hello React",
+    "body":"this is React related post",
+    "published": false,
+    "auther":2
+  },
+  {
+    "id": 1,
+    "title": "hello Node",
+    "body":"this is Node related post",
+    "published": false,
+    "auther":1
+  }
+]
